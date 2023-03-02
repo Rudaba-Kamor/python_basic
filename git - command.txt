@@ -1,0 +1,4 @@
+to add file: git add .
+to commit: git commit -m "our-commit-message"
+to pull: git pull
+to push: git push
