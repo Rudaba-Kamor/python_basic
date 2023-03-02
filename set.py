@@ -1,0 +1,28 @@
+'''thisset = {"apple", "banana", "cherry"}
+print(thisset)
+
+#union() method returns a new set with all items from both sets:
+set1={1,2,3,4}
+set2={"a","b","c"}
+
+set3=set1.union(set2)
+print(set3)
+
+#The update() method inserts the items in set2 into set1:
+set1.update(set2)
+
+#Keep the items that exist in both set x, and set y:
+x = {"apple", "banana", "cherry"}
+y = {"google", "microsoft", "apple"}
+
+x.intersection_update(y)
+
+print(x)
+
+#same
+x = {"apple", "banana", "cherry"}
+y = {"google", "microsoft", "apple"}
+
+z = x.intersection(y)
+
+print(z)'''
